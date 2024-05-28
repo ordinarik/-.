@@ -8,5 +8,5 @@
 
 Для работы нужны
 * python3.10
-* Beautifulsoap
+* Beautifulsoup
 * requests
